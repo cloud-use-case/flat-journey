@@ -1,0 +1,1 @@
+Here is a simple admin guide for vnc client.
